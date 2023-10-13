@@ -2,4 +2,4 @@
 ![Language les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=dadodasyra&layout=compact)
 
 ![Histeria](https://minecraftpocket-servers.com/server/82450/banners/half-banner-2.png)
-![Contributions](https://activity-graph.herokuapp.com/graph?username=dadodasyra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dadodasyra&theme=vue-dark&hide_border=true)
